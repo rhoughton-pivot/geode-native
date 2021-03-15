@@ -15,6 +15,7 @@
  * limitations under the License.
  */
 
+
 #include "CredentialGenerator.hpp"
 
 #include "DummyCredentialGenerator.hpp"
