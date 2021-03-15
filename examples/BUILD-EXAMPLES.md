@@ -8,6 +8,8 @@
 * **For Windows:** Visual Studio 2017
 * Optional: OpenSSL (to run the SSL examples)
 
+
+
 ## Building the Examples
 
 1. Copy the `examples` directory from the native client installation folder to a folder in your workspace.
